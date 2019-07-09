@@ -6,7 +6,7 @@ dataSet[dataSetVersion].options = [
     name: "Filter by Album Release",
     key: "series",
     tooltip: "Check this to restrict to certain releases.",
-    checked: true,
+    checked: false,
     sub: [
       { name: "Winter Comiket", tooltip: "Released for Comiket in December", key: "wcomiket" },
       { name: "Reitaisai", tooltip: "Released for Reitaisai", key: "rei" },
@@ -74,14 +74,14 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "彩 (irodori)",
-    img: "sgZPf11.png",
+    img: "vwbm3JL.jpg",
     opts: {
       series: ["rei"]
     }
   },
   {
     name: "騙 (katari)",
-    img: "8UX7hKE.png",
+    img: "ywlytS5.jpg",
     opts: {
       series: ["scomiket"]
     }
