@@ -43,227 +43,199 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Daiyousei",
-    img: "NWlZud3.png",
+    name: "謡 (utai)",
+    img: "CRXKs4s.jpg",
     opts: {
-      series: ["book", "EoSD"],
-      stage: ["st2", "ex"]
+      series: ["scomiket"]
     }
   },
   {
-    name: "Cirno",
-    img: "qdveFSy.png",
+    name: "廻 (meguri)",
+    img: "DrHoecE.jpg",
     opts: {
-      series: [ "book", "EoSD", "PCB", "PoFV", "StB", "soku", "GFW", "HM", "DDC", "ISC", "HSiFS" ],
-      stage: ["st2"]
+      series: ["wcomiket"]
     }
   },
   {
-    name: "Hong Meiling",
-    img: "ptGp0x4.png",
+    name: "憩 (ikoi)",
+    img: "dxPN5Mv.jpg",
     opts: {
-      series: ["book", "EoSD", "IaMP", "StB", "soku"],
-      stage: ["st3"]
+      series: ["rei"]
     }
   },
   {
-    name: "Koakuma",
-    img: "vBKdDm4.png",
+    name: "遙 (haruka)",
+    img: "MAHCix0.jpg",
     opts: {
-      series: ["book", "EoSD"],
-      stage: ["st4"]
+      series: ["scomiket"]
     }
   },
   {
-    name: "Patchouli Knowledge",
-    img: "A7ZnuHo.png",
+    name: "綴 (tsudzuri)",
+    img: "kzs7GtN.jpg",
     opts: {
-      series: ["book", "EoSD", "IaMP", "StB", "SWR", "soku", "HM"],
-      stage: ["st4", "ex"]
+      series: ["wcomiket"]
     }
   },
   {
-    name: "Izayoi Sakuya",
+    name: "彩 (irodori)",
     img: "sgZPf11.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "HM", "DDC", "ISC" ],
-      stage: ["st5", "st6"]
+      series: ["rei"]
     }
   },
   {
-    name: "Remilia Scarlet",
+    name: "騙 (katari)",
     img: "8UX7hKE.png",
     opts: {
-      series: ["book", "EoSD", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC"],
-      stage: ["st6"]
+      series: ["scomiket"]
     }
   },
   {
-    name: "Flandre Scarlet",
-    img: "OhaDcnc.png",
+    name: "徒 (itazura)",
+    img: "j4ewT2x.jpg",
     opts: {
-      series: ["book", "EoSD", "StB"],
-      stage: ["ex"]
+      series: ["rei"]
     }
   },
   {
-    name: "Letty Whiterock",
-    img: "MgzqjFK.png",
+    name: "辿 (tadori)",
+    img: "ewCW6QP.jpg",
     opts: {
-      series: ["book", "PCB", "StB", "HM"],
-      stage: ["st1"]
+      series: ["wcomiket"]
     }
   },
   {
-    name: "Chen",
-    img: "ohmetZh.png",
+    name: "誘 (izanai)",
+    img: "aFPjiNO.jpg",
     opts: {
-      series: ["book", "PCB", "IaMP", "StB", "SWR", "soku", "HM"],
-      stage: ["st2", "ex"]
+      series: ["wcomiket"]
     }
   },
   {
-    name: "Alice Margatroid",
-    img: "aDIf0pN.png",
+    name: "改 (aratame)",
+    img: "yiaiEtR.jpg",
     opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM"],
-      stage: ["st3"]
+      series: ["scomiket"]
     }
   },
   {
-    name: "Lily White",
-    img: "2Pr8b2N.png",
+    name: "薦 (susume)",
+    img: "hz5NGOw.jpg",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "HSiFS"],
-      stage: ["st4", "ex"]
+      series: ["wcomiket"]
     }
   },
   {
-    name: "Lunasa Prismriver",
-    img: "htOMdDQ.png",
+    name: "望 (nozomi)",
+    img: "AcrM5LI.jpg",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
-      stage: ["st4"]
+      series: ["rei"]
     }
   },
   {
-    name: "Merlin Prismriver",
-    img: "PrRPujP.png",
+    name: "屠 (hofuri)",
+    img: "SBIxxHV.jpg",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
-      stage: ["st4"]
+      series: ["scomiket"]
     }
   },
   {
-    name: "Lyrica Prismriver",
-    img: "ze79bFC.png",
+    name: "奉 (sasage)",
+    img: "OOwozgQ.jpg",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
-      stage: ["st4"]
+      series: ["wcomiket"]
     }
   },
   {
-    name: "Konpaku Youmu",
-    img: "WMjyRLJ.png",
+    name: "求 (motome)",
+    img: "QnvCLKy.jpg",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "TD", "HM", "ISC" ],
-      stage: ["st5", "st6"]
+      series: ["rei"]
     }
   },
   {
-    name: "Saigyouji Yuyuko",
-    img: "VT9mTGb.png",
+    name: "喩 (tatoe)",
+    img: "ER9EkVA.jpg",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "TD", "HM", "ISC" ],
-      stage: ["st1", "st6"]
+      series: ["scomiket"]
     }
   },
   {
-    name: "Yakumo Ran",
-    img: "rshnJPV.png",
+    name: "密 (hisoka)",
+    img: "h6cEMH3.jpg",
     opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM"],
-      stage: ["ex"]
+      series: ["wcomiket"]
     }
   },
   {
-    name: "Yakumo Yukari",
-    img: "qsceD4I.png",
+    name: "掲 (kakage)",
+    img: "LhwXJiv.jpg",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "AoCF" ],
-      stage: ["ex"]
+      series: ["rei"]
     }
   },
   {
-    name: "Ibuki Suika",
-    img: "pLdMjQ3.png",
+    name: "夢 (utsutsu)",
+    img: "dq8C0Hp.jpg",
     opts: {
-      series: ["book", "IaMP", "StB", "SWR", "soku", "DS", "HM", "ISC"],
-      stage: ["st6"]
+      series: ["scomiket"]
     }
   },
   {
-    name: "Wriggle Nightbug",
-    img: "8DLUAPf.png",
+    name: "虚 (utsuro)",
+    img: "ABb7CqC.jpg",
     opts: {
-      series: ["book", "IN", "StB", "HM"],
-      stage: ["st1"]
+      series: ["wcomiket"]
     }
   },
   {
-    name: "Mystia Lorelei",
-    img: "6KyhLqE.png",
+    name: "伝 (tsutae)",
+    img: "e4W4rul.jpg",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "HM"],
-      stage: ["st2"]
+      series: ["wcomiket"]
     }
   },
   {
-    name: "Kamishirasawa Keine",
-    img: "99w0Chm.png",
+    name: "随 (manima)",
+    img: "xaFHTyb.jpg",
     opts: {
-      series: ["book", "IN", "StB", "HM", "ISC"],
-      stage: ["st3", "ex"]
+      series: ["rei"]
     }
   },
   {
-    name: "Inaba Tewi",
-    img: "yqNfNje.png",
+    name: "音 (omoi)",
+    img: "SUKYXAN.jpg",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "HM"],
-      stage: ["st5"]
+      series: ["scomiket"]
     }
   },
   {
-    name: "Reisen Udongein Inaba",
-    img: "PrYzRcC.png",
+    name: "祀 (matsuri)",
+    img: "SbVERyn.jpg",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "soku", "HM", "LoLK", "AoCF"],
-      stage: ["st5"]
+      series: ["wcomiket"]
     }
   },
   {
-    name: "Yagokoro Eirin",
-    img: "ceo4DhK.png",
+    name: "逆 (sakasa)",
+    img: "BwLt8v9.jpg",
     opts: {
-      series: ["book", "IN", "StB", "HM"],
-      stage: ["st6"]
+      series: ["scomiket"]
     }
   },
   {
-    name: "Houraisan Kaguya",
-    img: "2YDuTk3.png",
+    name: "娶 (metori)",
+    img: "1TIgdoB.jpg",
     opts: {
-      series: ["book", "IN", "StB", "HM"],
-      stage: ["st6"]
+      series: ["wcomiket"]
     }
   },
   {
-    name: "Fujiwara no Mokou",
-    img: "3zo4VKV.png",
+    name: "奏 (kanade)",
+    img: "ovxFcTs.jpg",
     opts: {
-      series: ["book", "IN", "StB", "HM", "ISC", "ULiL", "AoCF"],
-      stage: ["ex"]
+      series: ["rei"]
     }
   },
   {
