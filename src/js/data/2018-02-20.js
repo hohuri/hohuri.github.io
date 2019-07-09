@@ -6,7 +6,7 @@ dataSet[dataSetVersion].options = [
     name: "Filter by Album Release",
     key: "series",
     tooltip: "Check this to restrict to certain releases.",
-    checked: false,
+    checked: true,
     sub: [
       { name: "Winter Comiket", tooltip: "Released for Comiket in December", key: "wcomiket" },
       { name: "Reitaisai", tooltip: "Released for Reitaisai", key: "rei" },
