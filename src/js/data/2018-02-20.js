@@ -94,7 +94,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "辿 (tadori)",
+    name: "辿 (tadori)", // PLEASE!!! god
     img: "ewCW6QP.jpg",
     opts: {
       series: ["wcomiket"]
