@@ -235,7 +235,7 @@ dataSet[dataSetVersion].characterData = [
    },
    {
     name: "眇 (sugame)",
-    img: "TdiWbuF.jpg",
+    img: "dhYwg7I.jpg",
     opts: {
        series: ["scomiket"]
       }
