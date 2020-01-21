@@ -240,12 +240,11 @@ dataSet[dataSetVersion].characterData = [
        series: ["scomiket"]
       }
    },
-         {
+   {
     name: "彁",
     img: "b5H91dV.jpg",
     opts: {
        series: ["wcomiket"]
       }
-         }
-  }
+    }
 ];
