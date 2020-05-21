@@ -245,7 +245,8 @@ dataSet[dataSetVersion].characterData = [
     img: "8ckzzgf.jpg",
     opts: {
        series: ["wcomiket"]
-      },
+      }
+   },
    {
     name: "蒐 (atsume)",
     img: "cHdGAnI.jpg",
