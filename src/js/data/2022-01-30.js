@@ -260,6 +260,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
         series: ["rei"]
         }
+    },
     {
     name: "△ (tetra)",
     img: "ZeAggz5.jpg",
